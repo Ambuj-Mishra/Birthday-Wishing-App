@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Birthday</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="create_card">Create Card</string>
+    <string name="a">a</string>
+    <string name="b">Happy Birthday</string>
+    <string name="t">TextView</string>
+    <string name="tod">TODO</string>
+
+</resources>
